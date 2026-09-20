@@ -1,0 +1,4 @@
+*.o
+*.a
+example
+tests/test_simplex
